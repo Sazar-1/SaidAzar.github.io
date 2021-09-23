@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Personal Website
 
 You can use the [editor on GitHub](https://github.com/Sazar-1/SaidAzar.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# My CV
+## My Research Projects
+### My Publications
 
 - Bulleted
 - List
